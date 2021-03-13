@@ -22,7 +22,7 @@
         android:text="전송" />
 
     <TextView
-        android:id="@+id/contentTx"
+        android:id="@+id/contentTxt"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center"
